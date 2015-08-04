@@ -16,3 +16,4 @@ INSTRUCTION
 CHANGELOG
 =========
 + V1: Initial Release
++ V2: Added More Devices on Udev Rules
