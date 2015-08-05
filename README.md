@@ -8,7 +8,7 @@ You don't need to install SDK before.
 =========
 INSTRUCTION
 =========
-+ Download and Extract the zip
++ Download and Extract the zip or clone the repo and go into the folder
 + Launch the installer script with terminal
 + All is done! you don't need to reboot your computer!
 
