@@ -17,3 +17,4 @@ CHANGELOG
 =========
 + V1: Initial Release
 + V2: Added More Devices on Udev Rules
++ V3: Added Moreeeee Devices on Udev Rules
